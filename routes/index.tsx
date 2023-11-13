@@ -21,7 +21,7 @@ const announcement = {
   major: true,
   href: "https://deno.com/saaskit",
   text:
-    "Announcing Deno SaaSKit: a modern, open-source template to start your SaaS today.",
+    "Announcing The New Deno SaaSKit: a modern, open-source template to start your SaaS today.",
 } as const;
 
 export default function Home({ data }: PageProps<Data>) {
